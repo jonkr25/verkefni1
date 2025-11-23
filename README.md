@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #verkefni 1
 
 1.
@@ -22,3 +23,6 @@ git branch - stjórnar greinum(branches) þegar ég skrifaði það inn kom mast
 7. Working directory er er vinnumappa sem er staður sem þú ert að vinna í og Staging Area er eins og biðstofa fyrir breytingar sem þú vilt setja í næsta commit.
 
 Greinar/Branches= 
+=======
+## verkefni1
+>>>>>>> b17cd6b3b003d0816196efa4a638581a4806fe89
