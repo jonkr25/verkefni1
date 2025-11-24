@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 #verkefni 1
+##verkefni 1
+###verkefni 1
 
 1.
 cd-change directory sem skiptir leiðina þína
